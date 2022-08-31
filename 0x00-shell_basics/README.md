@@ -1,3 +1,1 @@
-list of your current directory.
-There is no place like home
-The long format
+current directory contents, including hidden files (starting with .). Use the long format.
