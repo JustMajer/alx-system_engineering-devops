@@ -11,3 +11,4 @@ script that sets the mode of the file hello
 Look in the mirror
 Directories
 script that creates a directory called my_dir with permissions 751 in the working directory.
+script that changes the group owner to school for the file hello
