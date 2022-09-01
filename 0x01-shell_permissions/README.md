@@ -10,3 +10,4 @@ script that sets the permission to the file hello
 script that sets the mode of the file hello
 Look in the mirror
 Directories
+script that creates a directory called my_dir with permissions 751 in the working directory.
