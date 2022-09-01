@@ -6,3 +6,4 @@ script that creates an empty file called hello
 script that adds execute permission to the owner of the file hello
 Multiple permissions
 Everybody!
+script that sets the permission to the file hello
