@@ -8,3 +8,4 @@ Write a script that displays the third line of the file
 Save current state of directory
 Write a script that duplicates the last line of the file
 No more javascript
+script that counts the number of directories and sub-directories in the current directory.
